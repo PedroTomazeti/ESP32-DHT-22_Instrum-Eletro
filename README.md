@@ -1,5 +1,4 @@
 # ESP32-DHT-22_Instrum-Eletro
-# Wokwi-Project-ESP32
 Projeto do Sensor DHT22 utilizando ESP32 com MQTT<br>
 Este projeto foi desenvolvido como parte da disciplina de Instrumentação Eletrônica da Universidade Estadual do Maranhão (UEMA). Ele utiliza do micropy no ESP32 de e se comunica via Broker MQTT mosquitto.
 
