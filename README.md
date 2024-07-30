@@ -21,7 +21,7 @@ Wi-Fi: Conexão com a rede local.
 ```
 Configurações do MQTT
 ```
-MQTT_CLIENT_ID: "pedro-tomazeti-micropy"
+MQTT_CLIENT_ID: "instrum-eletro-micropy"
 MQTT_BROKER: "test.mosquitto.org"
 MQTT_USER: ""
 MQTT_PASSWORD: ""
